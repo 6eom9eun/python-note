@@ -10,4 +10,5 @@
 - [이분 탐색](./Baekjoon/이분탐색)
 - [자료구조](./Baekjoon/자료구조)
 - [정렬](./Baekjoon/정렬)
+### [Codeup](./Codeup)
 
