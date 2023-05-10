@@ -1,5 +1,5 @@
 N = int(input())
-A = list(map(int,input().split()))
+A = set(map(int,input().split()))
 M = int(input())
 MA = list(map(int,input().split()))
 
