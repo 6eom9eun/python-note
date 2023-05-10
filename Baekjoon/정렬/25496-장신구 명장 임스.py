@@ -9,10 +9,10 @@ a.sort()
 count = 0
 
 for i in a :
-    p += i
-    count += 1
-    if p >= 200:
+    if p < 200:
+        p += i
+        count += 1
+    else:
         break;
-
+        
 print(count)
-# 오답임 다른 알고리즘 찾자
