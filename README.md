@@ -7,7 +7,7 @@
 - [브루트포스](./Baekjoon/브루트포스)
 - [수학](./Baekjoon/수학)
 - [스택](./Baekjoon/스택)
-- [이분 탐색](./Baekjoon/이분 탐색)
+- [이분 탐색](./Baekjoon/이분탐색)
 - [자료구조](./Baekjoon/자료구조)
 - [정렬](./Baekjoon/정렬)
 
