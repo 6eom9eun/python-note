@@ -12,7 +12,6 @@
 출력
 1번 바구니부터 N번 바구니에 들어있는 공의 번호를 공백으로 구분해 출력한다.
 '''
-
 import sys
 input = sys.stdin.readline
 
