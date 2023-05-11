@@ -12,7 +12,6 @@
 출력
 제작할 수 있는 장신구의 최대 개수를 출력하시오.
 '''
-
 import sys
 input = sys.stdin.readline
 
