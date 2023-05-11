@@ -12,7 +12,6 @@
 출력
 첫째 줄에 다이얼을 걸기 위해서 필요한 최소 시간을 출력한다.
 '''
-
 dial = ['ABC', 'DEF', 'GHI', 'JKL', 'MNO', 'PQRS', 'TUV', 'WXYZ']
 s = input()
 sum = 0
