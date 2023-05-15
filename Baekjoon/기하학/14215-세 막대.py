@@ -13,13 +13,13 @@ a, b, c가 주어졌을 때, 만들 수 있는 가장 큰 둘레를 구하는 �
 출력
 첫째 줄에 만들 수 있는 가장 큰 삼각형의 둘레를 출력한다.
 '''
-a = input(list(map(int, input().split())))
+a = list(map(int, input().split()))
 a.sort()
 
 if a[0] + a[1] > a[2]:
     print(sum(a))
 else:
-    print((a[0]+a[1])*2 -1) 
+    print((a[0]+a[1])*2 -1)
     
     # 삼각형 필수 조건
     # 작은 두 수의 합이 가장 큰 수보다 크다면 전체의 합
