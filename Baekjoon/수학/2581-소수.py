@@ -28,5 +28,4 @@ for i in range(M, N+1):
 if len(l)==0:
     print(-1)
 else:
-    print(sum(l))
-    print(min(l))
+    print(sum(l),'\n',min(l), sep='')
