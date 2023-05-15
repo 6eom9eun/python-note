@@ -7,6 +7,7 @@
 ### [Baekjoon](./Baekjoon)
 - [구현](./Baekjoon/구현)
 - [그리디](./Baekjoon/그리디 ):star: `그리디 알고리즘이 포함된 문제들은 모두 그리디로 분류됨.`
+- [기하학](./Baekjoon/기하학 )
 - [문자열](./Baekjoon/문자열)
 - [브루트포스](./Baekjoon/브루트포스)
 - [수학](./Baekjoon/수학)
