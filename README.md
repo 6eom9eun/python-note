@@ -16,4 +16,4 @@
 - [자료구조](./Baekjoon/자료구조)
 - [정렬](./Baekjoon/정렬)
 ### [Codeup](./Codeup)
-### [이코테](./이코테)
+### [Icote](./Icote)
