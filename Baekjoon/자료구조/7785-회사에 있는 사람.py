@@ -14,17 +14,17 @@ import sys
 input = sys.stdin.readline
 
 n = int(input())
-tmp = dict()
+tmp = dict()        #딕셔너리형
 
 for _ in range(n):
     a, b = map(str, input().split())
 
-    if b == "enter":
+    if b == "enter":        #enter는 딕셔너리에 삽입
         tmp[a] = b
-    else:
+    else:           #leave는 삭제
         del tmp[a]
         
-tmp = sorted(tmp.keys(), reverse=True)
+tmp = sorted(tmp.keys(), reverse=True)      #딕셔너리 역순으로 정렬
 
-for i in tmp:
+for i in tmp:     
     print(i)
