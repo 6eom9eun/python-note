@@ -8,15 +8,15 @@
 출력
 첫째 줄에 이 단어에서 가장 많이 사용된 알파벳을 대문자로 출력한다. 단, 가장 많이 사용된 알파벳이 여러 개 존재하는 경우에는 ?를 출력한다.
 '''
-n = input().upper()
-nl = list(set(n))
+n = input().upper()     #입력을 대문자로 받기
+nl = list(set(n))       #집합 자료형 중복 X
 
 cnt = []
 
 for i in nl:
-    cnt.append(n.count(i))
+    cnt.append(n.count(i))      #각 갯수를 cnt에 입력
 
-if cnt.count(max(cnt)) > 1:
+if cnt.count(max(cnt)) > 1:     #중복된 거 2개 이상이면 ? 출력
     print("?")
 else:
-    print(nl[(cnt.index(max(cnt)))])
+    print(nl[(cnt.index(max(cnt)))])        #그 숫자에 대응하는 문자를 출력
