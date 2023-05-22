@@ -8,4 +8,4 @@
 출력
 첫째 줄에 입력으로 주어진 단어에서 대문자는 소문자로, 소문자는 대문자로 바꾼 단어를 출력한다.
 '''
-print(input().swapcase())
+print(input().swapcase())   #swapcase는 대소문자 바꾸는 함수
