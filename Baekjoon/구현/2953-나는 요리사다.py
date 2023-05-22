@@ -13,6 +13,6 @@
 s = []
 
 for i in range(5):
-    s. append(sum(map(int,input().split())))    #sum값을 리스트에 삽입
+    s.append(sum(map(int,input().split())))    #sum값을 리스트에 삽입
 
 print(s.index(max(s))+1, max(s))    #s의 최댓값 인덱스, s의 최대값
