@@ -19,5 +19,5 @@
 ### [Icote](./Icote)
 
 
-## [코테 연습장은 Velog으로 이전함](https://github.com/6eom9eun)
+## [코테 연습장은 Velog으로 이전함](https://velog.io/@6eom9eun))
 
