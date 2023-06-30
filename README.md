@@ -19,5 +19,5 @@
 ### [Icote](./Icote)
 
 
-### [이후 풀이들은 Velog에 작성함](.[/Icote](https://velog.io/@6eom9eun)https://velog.io/@6eom9eun)
+## [코테 연습장은 Velog으로 이전함](https://github.com/6eom9eun)
 
